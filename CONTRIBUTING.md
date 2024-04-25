@@ -6,8 +6,8 @@ Thank you for contributing! We appreciate your involvement in making this projec
 
 Proposals can be submitted through:
 
-- [Pull Requests](https://github.com/divio/getting-started-with-flask/pulls)
-- [Issues](https://github.com/divio/getting-started-with-flask/issues)
+- [Pull Requests](https://github.com/divio/getting-started-with-fastapi/pulls)
+- [Issues](https://github.com/divio/getting-started-with-fastapi/issues)
 
 ## Pull Requests and Branches
 
